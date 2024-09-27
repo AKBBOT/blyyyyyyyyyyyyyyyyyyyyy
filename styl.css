@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    user-select: none;
+}
+.CONTAINER-AND-FLEXBOX{
+    text-align: center;
+}
+.logo{
+    text-decoration: none;
+    color: inherit;
+    margin-left: 367px;
+}
+.a-lar{
+    display: flex;
+    gap: 101px;
+    }
+img{
+    margin-left: 166px;
+}
+.tekst{
+    padding: 30px;
+    margin-left: 166px;
+    background-color: black;
+    color: white;
+    width: 300px;
+}
+.divlar{
+    display: flex;
+    gap: 166px;
+}
+.onspan{
+    color: yellow;
+}
+.salom{
+    width: 300px;
+}
+.div{
+    display: inline-block;
+}
+.span{
+    text-align: center;
+    display: inline-block;
+}
+.left{
+    width: 300px;
+    height: 150px;
+}
